@@ -46,6 +46,7 @@ import com.google.firebase.ml.vision.FirebaseVision
 import com.google.firebase.ml.vision.label.FirebaseVisionLabelDetectorOptions
 import android.support.v4.app.ActivityCompat
 import com.google.firebase.FirebaseApp
+import com.raywenderlich.deliciousfood.R.id.*
 
 class MainActivity : AppCompatActivity() {
 

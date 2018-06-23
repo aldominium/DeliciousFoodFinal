@@ -42,7 +42,7 @@
     android:layout_height="wrap_content"
     android:background="@android:color/holo_orange_dark"
     android:onClick="takePicture"
-    android:text="Delicious Food?"
+    android:text="@string/take_picture"
     android:textColor="@android:color/background_light"
     android:textSize="18sp"
     android:textStyle="bold"
